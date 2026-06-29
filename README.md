@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arifbasha559/Leetcode-problems/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifbasha559/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arifbasha559/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/arifbasha559/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arifbasha559/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/arifbasha559/Leetcode-problems/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
