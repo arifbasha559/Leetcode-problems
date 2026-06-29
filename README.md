@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arifbasha559/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/arifbasha559/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/arifbasha559/Leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifbasha559/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
 | ------- |
