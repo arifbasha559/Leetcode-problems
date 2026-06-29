@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifbasha559/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/arifbasha559/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
