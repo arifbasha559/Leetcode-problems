@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arifbasha559/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/arifbasha559/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/arifbasha559/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arifbasha559/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
@@ -53,8 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/arifbasha559/Leetcode-problems/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/arifbasha559/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/arifbasha559/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/arifbasha559/Leetcode-problems/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/arifbasha559/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
