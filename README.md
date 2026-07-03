@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arifbasha559/Leetcode-problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifbasha559/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/arifbasha559/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -100,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
