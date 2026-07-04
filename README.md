@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/arifbasha559/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/arifbasha559/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arifbasha559/Leetcode-problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/arifbasha559/Leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/arifbasha559/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
@@ -102,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/arifbasha559/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/arifbasha559/Leetcode-problems/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
