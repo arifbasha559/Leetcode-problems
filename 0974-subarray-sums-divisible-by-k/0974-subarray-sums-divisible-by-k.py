@@ -8,7 +8,7 @@ class Solution:
         for num in nums:
             prefix_sum += num
             
-            remainder = (prefix_sum % k + k) % k
+            remainder = (prefix_sum % k) 
             
             if remainder in remainder_counts:
                 count += remainder_counts[remainder]
