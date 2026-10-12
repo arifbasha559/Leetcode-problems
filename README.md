@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/arifbasha559/Leetcode-problems/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arifbasha559/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arifbasha559/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/arifbasha559/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
