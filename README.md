@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/arifbasha559/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arifbasha559/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arifbasha559/Leetcode-problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1768-merge-strings-alternately](https://github.com/arifbasha559/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
