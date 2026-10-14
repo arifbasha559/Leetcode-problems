@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/arifbasha559/Leetcode-problems/tree/master/0986-interval-list-intersections) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arifbasha559/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/arifbasha559/Leetcode-problems/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/arifbasha559/Leetcode-problems/tree/master/1071-greatest-common-divisor-of-strings) |
