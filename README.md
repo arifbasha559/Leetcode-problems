@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/arifbasha559/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/arifbasha559/Leetcode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/arifbasha559/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arifbasha559/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/arifbasha559/Leetcode-problems/tree/master/0605-can-place-flowers) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/arifbasha559/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/arifbasha559/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arifbasha559/Leetcode-problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/arifbasha559/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
