@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arifbasha559/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/arifbasha559/Leetcode-problems/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/arifbasha559/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/arifbasha559/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/arifbasha559/Leetcode-problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/arifbasha559/Leetcode-problems/tree/master/0986-interval-list-intersections) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/arifbasha559/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/arifbasha559/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/arifbasha559/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/arifbasha559/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/arifbasha559/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/arifbasha559/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/arifbasha559/Leetcode-problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
