@@ -5,10 +5,8 @@ class Solution:
             freq[val] = freq.get(val, 0) + 1
 
         for val in ransomNote:
-            try:
-                if freq[val] == 0:
-                    del freq[val]
-                freq[val] -= 1
-            except KeyError:
+            if freq.get(val, 0) == 0:
                 return False
+            freq[val] -= 1
+            
         return True
