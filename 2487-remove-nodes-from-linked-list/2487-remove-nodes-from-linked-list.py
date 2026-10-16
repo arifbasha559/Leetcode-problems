@@ -5,12 +5,20 @@
 #         self.next = next
 class Solution:
     def removeNodes(self, head: ListNode | None) -> ListNode | None:
-        if head is None or head.next is None:
-            return head
+        stack = []
+        current = head
 
-        head.next = self.removeNodes(head.next)
+        while current is not None:
+            while stack and stack[-1].val < current.val:
+                stack.pop()
+            stack.append(current)
+            current = current.next
 
-        if head.next is not None and head.val < head.next.val:
-            return head.next
+        if not stack:
+            return None
 
-        return head
+        for i in range(len(stack) - 1):
+            stack[i].next = stack[i + 1]
+
+        stack[-1].next = None
+        return stack[0]
