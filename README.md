@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arifbasha559/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/arifbasha559/Leetcode-problems/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/arifbasha559/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/arifbasha559/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/arifbasha559/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/arifbasha559/Leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/arifbasha559/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/arifbasha559/Leetcode-problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/arifbasha559/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Greedy
 |  |
